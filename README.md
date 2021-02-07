@@ -7,3 +7,5 @@ Here are the list of Java Programs :
 3) Program to show current time
 4) To convert Fahrenheit to Celsius
 5) Program to compute area.
+6) Program to compute Area With Console Input 
+7) 
